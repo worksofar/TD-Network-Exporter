@@ -1,4 +1,4 @@
-# TouchDesigner Network Exporter/Importer 
+# TouchDesigner JSON Network Exporter/Importer 
 Version: 0.1 beta
 
 ## Table of Contents
